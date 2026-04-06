@@ -176,6 +176,10 @@ Client libraries for making x402 payments.
 - [viem](https://viem.sh/) - TypeScript library used for signing payments.
 - [ethers.js](https://docs.ethers.org/) - Alternative Ethereum library.
 
+### Python
+
+- [x402 Agent Kit](https://github.com/hypeprinter007-stack/x402-agent-kit) - Python payment SDK for AI agents to pay for any x402-enabled API with USDC on Base.
+
 ### Rust
 
 - [alloy](https://github.com/alloy-rs/alloy) - High-performance Ethereum library.
@@ -241,6 +245,7 @@ Full working examples and templates.
 - [x402 Boilerplate — Conflux eSpace](https://github.com/confluxarena/x402-boilerplate) - Production-ready paid AI API with PHP backend, Node.js facilitator, CLI agent, Docker, 87 tests, and multi-wallet demo. EIP-3009 USDT0 settlement. [Live Demo](https://confluxarena.org/x402-demo).
 - [x402 Dynamic Pricing](https://github.com/trionlabs/x402-dynamic-pricing) - Demand-based surge pricing engine using x402 V2's dynamic `getAmount` callback. Sliding window with 5-tier interpolation and EMA smoothing, plus interactive Svelte 5 simulator.
 - [Agent Arena](https://agentarena.site) - On-chain ERC-8004 agent registry with x402-gated search ($0.001 USDC/query) and registration ($0.05 USDC). Agents discover and hire each other autonomously on Base mainnet. No API keys required.
+- [SignalFuse Starter Bot](https://github.com/hypeprinter007-stack/signalfuse-starter-bot) - Hyperliquid trading bot that pays for signals via x402, no API keys or KYC required.
 
 ### API Examples
 
